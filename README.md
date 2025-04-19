@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm M.A Rafi 👋
 
-<!--
-**rafiabdul143/rafiabdul143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student from India 🚀  
+Currently working on smart IoT systems and Python-based GUI applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- 💻 Languages: Python, Java, C++
+- 🌐 Web: HTML, CSS, JavaScript, Node.js, React
+- 🗃️ Database: MySQL, MongoDB
+- ☁️ Cloud: Google Cloud, AWS (Basics)
+- 🧠 Others: Tkinter, Packet Tracer, Git
+
+---
+
+## 📈 GitHub Stats
+
+![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiabdul143&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiabdul143&layout=compact)](https://github.com/rafiabdul143)
+
+---
+
+## 📫 Connect with me
+
+- [LinkedIn](https://linkedin.com/in/rafiabdul143)
+- [GitHub](https://github.com/rafiabdul143)
+- Email: your_email@example.com
+
+---
+
+## 💡 Fun Fact
+I automate systems before my coffee gets cold ☕🤖
