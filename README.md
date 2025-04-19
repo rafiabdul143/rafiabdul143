@@ -5,8 +5,6 @@ Currently working on **smart IoT systems** and **Python-based GUI applications**
 
 ---
 
----
-
 ## 🛠️ Skills
 
 - 💻 **Languages**: Python, Java, C++
