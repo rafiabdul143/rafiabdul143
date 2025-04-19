@@ -1,7 +1,9 @@
-# Hi there, I'm M.A Rafi 👋
+# **Hi there, I'm M.A Rafi 👋**
 
-I'm a passionate Computer Science student from **India** 🚀  
+I'm a passionate **Computer Science** student from **India** 🚀  
 Currently working on **smart IoT systems** and **Python-based GUI applications**.
+
+---
 
 ---
 
