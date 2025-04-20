@@ -7,9 +7,7 @@ Currently working on smart IoT systems and Full Stack applications.
 
 ## 🛠️ Skills
 
-- 💻 Languages: Python, Java, C++
-- 🌐 Web: HTML, CSS, JavaScript, Node.js, React
-- 🗃️ Database: MySQL, MongoDB
+- 💻 Languages: Python, Java.
 - ☁️ Cloud: Google Cloud, AWS (Basics)
 - 🧠 Others: Tkinter, Packet Tracer, Git
 
