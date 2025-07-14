@@ -83,8 +83,4 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafiabdul143" alt="rafiabdul143 trophies" />
-</p>
