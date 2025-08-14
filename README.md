@@ -71,24 +71,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiabdul143&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiabdul143&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiabdul143&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafiabdul143&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiabdul143&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
----
-
-### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiabdul143&bg_color=0d1117&color=ff4b4b&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiabdul143" alt="GitHub Streak" />
 </p>
 
-
 ---
-
-
 
 
