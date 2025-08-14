@@ -74,7 +74,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rafiabdul143&show_icons=true&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rafiabdul143&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiabdul143&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafiabdul143&theme=tokyonight&hide_border=true" alt="WakaTime Stats" height="150"/>
 </p>
+
 
 
 
