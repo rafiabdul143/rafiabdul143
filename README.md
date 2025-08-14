@@ -71,27 +71,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiabdul143&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiabdul143&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiabdul143&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiabdul143&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafiabdul143&theme=radical&hide_border=false" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafiabdul143&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiabdul143&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiabdul143&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🐍 Watch My Contributions Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafiabdul143/rafiabdul143/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 
 
