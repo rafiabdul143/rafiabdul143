@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Rafi;Full-Stack+Developer;IoT+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Rafi;.NET+Developer;Full-Stack+Developer;Desktop+Developer;IoT+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Passionate Full-Stack Developer & IoT Innovator from India 🇮🇳</h3>
@@ -20,8 +20,6 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 - 🔭 **Currently Working On:** [E-commerce Platform](https://github.com/rafiabdul143/E-commerce-site-Sparkle) with modern tech stack
 - 🌱 **Learning:** Advanced DevOps, Microservices Architecture, and AI/ML Integration
 - 👨‍💻 **Portfolio:** [Explore My Projects](https://github.com/rafiabdul143/My-Portfolio)
@@ -29,20 +27,6 @@
 - 💬 **Ask Me About:** React, Java, Python, IoT, System Architecture, DevOps
 - 📫 **Reach Me:** [mohdabdulrafi17@gmail.com](mailto:mohdabdulrafi17@gmail.com)
 - ⚡ **Fun Fact:** I love building IoT solutions that solve real-world problems!
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafiabdul143&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-- 🎓 **Computer Science Graduate** with expertise in modern development practices
-- 🏗️ **20+ Projects** spanning Web Development, Mobile Apps, and IoT Systems
-- 🌟 **Open Source Contributor** with focus on educational and practical solutions
-- 🔧 **IoT Specialist** - Built Smart Irrigation & Home Automation Systems
-- 🛡️ **Security Focused** - Developed Weapon Detection & Attendance Systems using AI
 
 ---
 
@@ -128,63 +112,10 @@
 
 ---
 
-## 🎯 Current Focus Areas
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Web Development"/>
-      <br><strong>Full-Stack Development</strong>
-      <br>Building scalable web applications
-    </td>
-    <td align="center" width="200">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="IoT"/>
-      <br><strong>IoT Solutions</strong>
-      <br>Smart systems & automation
-    </td>
-    <td align="center" width="200">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="DevOps"/>
-      <br><strong>DevOps & Cloud</strong>
-      <br>CI/CD & Infrastructure
-    </td>
-    <td align="center" width="200">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="AI/ML"/>
-      <br><strong>AI/ML Integration</strong>
-      <br>Intelligent applications
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiabdul143&theme=tokyo-night&hide_border=true&area=true&custom_title=Abdul%20Rafi's%20Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350" />
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rafiabdul143/rafiabdul143/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -197,4 +128,3 @@
   <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   <p>⭐️ From <a href="https://github.com/rafiabdul143">Abdul Rafi</a> with ❤️</p>
 </div>
-
