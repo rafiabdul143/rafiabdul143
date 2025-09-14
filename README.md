@@ -78,8 +78,9 @@
 
 ### 🧠 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c#,javascript,html,css" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,csharp,javascript,html,css" alt="Programming languages"/>
 </div>
+
 ### 🧩 Frameworks & Libraries
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,flutter,bootstrap,tailwind" alt="Frameworks & Libraries"/>
