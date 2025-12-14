@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Rafi;.NET+Developer;Full-Stack+Developer;Desktop+Developer;IoT+Enthusiast" alt="Typing SVG" />
 </div>
  
-<h3 align="center">🚀 Passionate Full-Stack Developer & IoT Innovator from India 🇮🇳</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer & IoT Innovator from India 🇮🇳 </h3>
  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rafiabdul143&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
