@@ -174,15 +174,7 @@ Technical notes and learning resources covering DevOps and cloud technologies.
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
-
-<img src="https://streak-stats.demolab.com/?user=rafiabdul143&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
@@ -196,13 +188,7 @@ Technical notes and learning resources covering DevOps and cloud technologies.
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiabdul143&theme=tokyo-night&hide_border=true&area=true&custom_title=Abdul%20Rafi's%20Contribution%20Graph" width="900" alt="Contribution Graph"/>
-
-</div>
 
 ---
 
