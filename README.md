@@ -174,15 +174,16 @@ Technical notes and learning resources covering DevOps and cloud technologies.
 
 
 
-## 🔥 GitHub Contribution Streak
+
+
+---
+## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=rafiabdul143&theme=tokyonight&hide_border=true&card_width=700" width="700" alt="GitHub Contribution Streak"/>
 
 </div>
-
----
 
 ## 🎯 Current Goals
 
